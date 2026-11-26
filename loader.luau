@@ -7,7 +7,8 @@ task.spawn(function()
     
     local supported_games = {
         [73768006371986] = "games/obbyscript.luau",
-        [11464559285] = "games/elgato.luau"
+        [11464559285] = "games/elgato.luau",
+        [1962086868] = "games/elgato.luau"
     }
 
     if supported_games[gameid] then
